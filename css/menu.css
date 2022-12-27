@@ -1,0 +1,80 @@
+
+/* tytuł */
+.header__title {
+    border: 10px ridge rgb(67, 50, 222);
+   
+    padding: 10px 40%;
+}
+
+/* menu */
+.menu__title {
+    border: 10px ridge rgb(67, 50, 222);
+    padding: 10px 40%;
+}
+
+.menu {
+    list-style-type: none;
+}
+
+.menu__link {
+    text-decoration: none;
+    margin: auto;
+}
+
+.menu__link:visited {
+    color: blue;
+}
+
+.menu__link:focus {
+    color: rgb(181, 107, 251);
+}
+
+.menu__link:hover {
+    color: red;
+    border: 2px dashed brown;
+    outline: none;
+
+}
+
+.menu__link:active {
+    color: darkviolet;
+}
+
+/*Przycisk */
+
+.header__colorBlue {
+    margin-left: 90%;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(226, 244, 244);
+}
+
+.header__color {
+    margin-left: 90%;
+    height: 10px;
+    width: 10px;
+    background-color: rgb(214, 175, 102);
+}
+
+
+.buttonBlue {
+    margin-left: 80%;
+}
+
+.buttonOrange {
+    max-width: 1200px;
+    margin: auto;
+    background-color: rgb(214, 175, 102);
+}
+
+.header__button {
+    margin-left: 90%;
+    background-color: rgb(226, 244, 244);
+    margin-left: 80%;
+}
+
+.header__buttonOrange {
+    max-width: 1200px;
+    margin: auto;
+    background-color: rgb(214, 175, 102);
+}

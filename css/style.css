@@ -1,0 +1,29 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+
+
+
+/* STYLE OGÓLNE */
+
+.web {
+    max-width: 1200px;
+    margin: auto;
+    background-color: rgb(226, 244, 244);
+
+
+}
+
+.img {
+    object-fit: cover;
+}
+
+
+
