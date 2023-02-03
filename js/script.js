@@ -1,14 +1,23 @@
-console.log("hello World")
 
-let button = document.querySelector(".header__button");
-let color = document.querySelector(".header__color");
-let web = document.querySelector(".web");
-
-
-button.addEventListener("click", () => {
+{
     
-    web.classList.toggle('web')
-    web.classList.toggle('header__buttonOrange')
-    color.classList.toggle('header__color');
-    color.classList.toggle('header__colorBlue');
-})
+    const hello = () => {
+        console.log("hello World")
+    };
+    const toggleButton = () => {
+        const section = document.querySelector(".header__colorChange").children[0];
+        const body = document.documentElement;
+
+        body.classList.toggle("header__buttonOrange");
+
+        section.classList.toggle("header__colorBlue");
+        section.classList.toggle("header__color");       
+    };
+
+    const changeColorButton = () => {
+        const button = document.querySelector(".header__button");
+        button.addEventListener("click", toggleButton);
+        hello();
+    };
+ changeColorButton();
+}
