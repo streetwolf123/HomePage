@@ -1,24 +1,26 @@
 # Opis siebie
 
 ## *menu*
-Menu nie przezuca na inne strony a pozwala na skakanie pomiedzy poszczególnymi tematami na tej samej stronie,
+Menu take you to the part of website where is content of selected theme
 1. IT w życiu
 2. z branży do branży 
 3. Oczekiwania 
-4. Ulubione filmy (**jest to tablica**)
+4. Ulubione filmy (**this is a table**)
 
-## *przycisk* **zmień kolor**
-przycisk ten powoduje zmiane koloru calego tła strony a mały kwadracik tuż obok niego wskazuje na jaki kolor zmieni się tło
+## *button* **zmień kolor**
+This button change a color on the website with a small square under 
 
-## *treść* 
-ta część zawiera wszystkie rzeczy w menu wymionione powyżej jak i ich treść 
+## *content* 
+this part conteins every contents with their themes
 
-## *tabela*
-Tabela przedstawiająca ulubione filmy wraz z przypisaniem do nich reżyserów danej produkcji jak i daty premiery, posiada również funkcje która po 
-najwchaniu myszką na dany film, reżysera lub datę zmienia kolor całej lini aby czytający mógł łatwiej znaleźć odpowieadające jej elementy 
+## *table*
+table which show my favourites movies, their producers and year when this movie had premiere. 
 
-## *stopka* 
-opis w jakim celu została zrobiona strona jak i kto ją stworzył 
+## *footer* 
+Discription of who made this website and for what 
 
-## **link do strony** 
+## **link** 
 *[HomePage](https://streetwolf123.github.io/HomePage/)* 
+
+## **little piture of website** 
+
